@@ -1,1 +1,8 @@
 http://www.throrinstudio.com/dev/creer-un-nouveau-projet-github-sous-eclipse/
+https://stackoverflow.com/questions/25798156/resizing-icon-to-fit-on-jbutton-in-java
+https://openclassrooms.com/courses/apprenez-a-programmer-en-java/positionner-des-boutons
+https://openclassrooms.com/courses/apprenez-a-programmer-en-java/notre-premiere-fenetre
+
+http://gfx.developpez.com/tutoriel/java/swing/drag/
+http://zetcode.com/tutorials/javaswingtutorial/draganddrop/
+https://openclassrooms.com/courses/apprenez-a-programmer-en-java/le-drag-n-drop
