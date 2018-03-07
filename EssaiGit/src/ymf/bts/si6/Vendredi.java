@@ -13,7 +13,7 @@ public class Vendredi {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Bonjour Ca Va ??");
+		System.out.println("Bonjour Ca Va ???");
 	}
 
 }
